@@ -1,4 +1,4 @@
-# naumen.scala.course.2021.spring
+# naumen.scala.course.2022.spring
 
 ### Лекции
 
