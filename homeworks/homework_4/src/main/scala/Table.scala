@@ -1,5 +1,6 @@
 import scala.collection.mutable
 
+
 class Table(w: Int, h: Int) {
   private val cells: Array[Cell] = new Array[Cell](w * h).map(_ => EmptyCell())
 
