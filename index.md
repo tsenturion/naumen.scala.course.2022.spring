@@ -25,3 +25,4 @@ layout: default
 * [Задание 6](homeworks/homework_6/homework_6.md) [папка в GitHub](https://github.com/naumen-student/naumen.scala.course.2022.spring/tree/master/homeworks/homework_6)
 * [Задание 7](homeworks/homework_7/homework_7.md) [папка в GitHub](https://github.com/naumen-student/naumen.scala.course.2022.spring/tree/master/homeworks/homework_7)
 * [Задание 8](homeworks/homework_8/homework_8.md) [папка в GitHub](https://github.com/naumen-student/naumen.scala.course.2022.spring/tree/master/homeworks/homework_8)
+* [Задание 9](homeworks/homework_9/homework_9.md) [папка в GitHub](https://github.com/naumen-student/naumen.scala.course.2021.spring/tree/master/homeworks/homework_9)
